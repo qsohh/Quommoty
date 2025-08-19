@@ -97,3 +97,7 @@ If you use the provided presets or PowerShell scripts, you can run:
 
 Contributions are welcome!  
 If you find a bug or have an idea for improvement, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
