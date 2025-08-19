@@ -1,0 +1,38 @@
+# .gitignore for Quommoty
+
+# Folders to ignore
+.vscode/
+.vs/
+__pycache__/
+vcpkg_installed/
+
+# Ignore local stored data
+data/
+
+# Ignore build files
+build/
+out/
+
+# Files to ignore
+*.code-workspace
+*.log
+.env
+*.env
+CMakePresets.json
+
+# files temporarily not to be uploaded
+docs/quant_note.md
+
+# Compiler / binary outputs
+*.obj
+*.pdb
+*.dll
+*.exe
+*.lib
+*.ilk
+*.tlog
+*.idb
+*.o
+*.a
+*.so
+*.dylib

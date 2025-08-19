@@ -1,0 +1,11 @@
+{
+  "name": "quommoty",
+  "version": "0.1.0",
+  "dependencies": [
+    {
+      "name": "quantlib",
+      "version>=": "1.39"
+    }
+  ],
+  "builtin-baseline": "ee5c9041e8126600e79e0c80f7e6c70101c1353a"
+}
