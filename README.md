@@ -4,7 +4,7 @@ This project is a futures pricing framework built in C++ with [QuantLib](https:/
 
 It provides a common pricing interface and specialized pricers for crude oil and electricity futures.  
 
-This project is intended primarily for personal learning and practice purposes.
+This project is an iterative prototype project, and is intended primarily for personal learning and practice purposes.
 
 ## Features
 
